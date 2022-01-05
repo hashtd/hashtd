@@ -10,4 +10,4 @@ I'm a Full Stack Software Engineer from India
 - 💬 Ping me about nextjs, svelte, laravel, wordpress, ffmpeg, wasm, scaffolding
 - 📫 Reach me: [twitter.com/hashtd](https://twitter.com/hashtd)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a die hard naruto fan
+- ⚡ Fun fact: I stared with `Photoshop 4.0` as Web Designer
