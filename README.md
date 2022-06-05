@@ -3,7 +3,6 @@
 I'm a Full Stack Software Engineer from India 
 - 🔭 I'm currently working on ui-fox
 - 🌱 I’m currently learning Rust
-- 👯 I’m looking to collaborate on 
 - ✨ I have solid background in Nodejs/Laravel backend development
 - ✨ I'm hardcore Reactjs (Nextjs) / React Native / Tailwind guy
 - ✨ I'm actively preaching Nextjs based JAMStack apps (offline first)
